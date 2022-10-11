@@ -1,11 +1,10 @@
 # TO DO
-
 ## RÉFÉRENCEMENT
 – [ ] description dans le navigateur + lorsque les navigateurs ont des pages en favoris
 – [ ] img PAS indexées dans google img (ni favicon)
 – [ ] keywords
 – [ ] googlebot/robots ?
-– [ ] autres balises cool ? 
+– [ ] autres balises cool ?
 
 ## OPTIMISATION 
 – [ ] chargement de la page et optimisation des données 
@@ -13,8 +12,7 @@
 – [ ] plusieurs tailles d’img dispo selon la taille de l’écran utilisée
 – [ ] resize le canvas lorsqu’on resize la page
 – [ ] mieux de garder les img sur le bureau ou créer un dossier en ligne ? comment faire ? et 		pour les typo ?
-– [ ] compatible avec un max de navigateurs 
-		
+– [ ] compatible avec un max de navigateurs 	
 		
 ## HEADER 
 – [ ] aucune marge en haut de la page 
@@ -32,7 +30,7 @@
 ## IMG
 – [ ] améliorer la qualité des img 
 – [ ] quand on a fini une première fois de voir toutes les img, que ça recommence à la 1ère
-– [ ] légendes qui apparaissent en dessous de l’img lorsqu’on maintient la souris en cliquant 		pour faire apparaître l’img
+– [ ] légendes qui apparaissent en dessous de l’img lorsqu’on maintient la souris en cliquant pour faire apparaître l’img
 – [ ] modifier la taille tout en conservant la qualité 
 – [ ] bouton sur la page pour la recharger directement 
 
