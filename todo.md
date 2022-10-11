@@ -10,12 +10,12 @@
 	- règles dans `robots.txt`
 - [ ] autres balises cool ?
 	- balises HTML og pour les médias sociaux
-		```
-		<meta property="og:title" content="Site title">
+```html
+	<meta property="og:title" content="Site title">
     <meta property="og:description" content="Site description">
     <meta property="og:image" content="img/site-image.jpg">
     <meta name="twitter:card" content="summary_large_image">
-    ```
+```
 
 ## OPTIMISATION 
 - [ ] chargement de la page et optimisation des données
