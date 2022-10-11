@@ -1,34 +1,30 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>milo graphiste</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
 
-<head>
+  <body>
+    <header>
+      <h1>milo.ooo</h1>
+    </header>
 
-  <meta charset="UTF-8"/>
-  <title>milo graphiste</title>
-  <link rel="stylesheet" href="assets/css/styles.css" />
-  
-</head>
+    <div style="display: none">
+      <img class="img" id="image_01" src="assets/img/yue.png" />
+      <img class="img" id="image_02" src="assets/img/tbwc.png" />
+      <img class="img" id="image_03" src="assets/img/jian-front.png" />
+    </div>
 
+    <canvas
+      id="canvas"
+      width="500"
+      height="500"
+      onmousedown="draw(event)"
+      style="position: absolute; left: 0px; top: 0px"
+    ></canvas>
 
-<body>
-
-<header>
-    <h1>milo.ooo</h1> 
-</header> 
-
-  <div style="display:none;">
-    <img class="img" id="image_01" src="assets/img/yue.png">
-    <img class="img" id="image_02" src="assets/img/tbwc.png">
-    <img class="img" id="image_03" src="assets/img/jian-front.png">
-  </div>
-  
-
-  <canvas id="canvas" width="500" height="500" onmousedown="draw(event)" style="position:absolute; left: 0px; top: 0px;"></canvas>
-
-
-
-  <script src="assets/js/canvas.js"> </script>
-  
-</body>
-
+    <script src="assets/js/canvas.js"></script>
+  </body>
 </html>
