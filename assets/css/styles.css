@@ -10,11 +10,21 @@ body {
   overflow: hidden;
   /* No floating content on sides */
   display: block;
+  position: relative;
 }
 
 header {
-  height: 5%;
+  height: 2vw;;
   width: 100%;
-  margin-top: 0;
-  background-color: red;
+  margin-top: 0; padding: 0;
+}
+
+a {
+    margin-top: 5px; padding:0;
+    margin-left: 15px;
+    font-family: Helvetica, sans-serif; 
+    font-size: 2vw;
+    color:black;
+    text-decoration: none;
+    cursor; auto;
 }

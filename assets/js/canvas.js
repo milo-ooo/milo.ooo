@@ -14,7 +14,7 @@ function draw(event) {
   var mousey = event.clientY;
   var img = document.getElementById("image_0" + i);
   ctx.drawImage(img, mousex - img.width / 4 / 2, mousey - img.height / 4 / 2, img.width / 4, img.height / 4);
-  if (i < 4) {
+  if (i < 15) {
     i++;
   } else {
     i = 1;
